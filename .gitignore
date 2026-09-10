@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.log
+*.pyc
+*.ipynb_checkpoints
+# 忽略本地自测生成的临时csv
+test_d1.csv
